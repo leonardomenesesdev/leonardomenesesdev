@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil!
 - 📘Ciência da Computação (2° Semestre)
-- 🏤Um universitário comum que ama o beecrowd e java
+- 🏤Um universitário comum que ama o beecrowd 
 - ## Favoritos 💻🧠:
 <div align = "left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"  />
