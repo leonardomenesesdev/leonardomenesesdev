@@ -1,5 +1,5 @@
 ## Olá! Bem vindo ao meu perfil!
-- 📘Ciência da Computação (2° Semestre)
+- 📘Ciência da Computação (3° Semestre)
 - 🏤Um universitário comum que ama o beecrowd 
 - ## Favoritos 💻🧠:
 <div align = "left">
