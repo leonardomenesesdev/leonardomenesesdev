@@ -1,5 +1,5 @@
 ## Olá! Bem vindo ao meu perfil!
-- 📘Ciência da Computação (4° Semestre)
+- 📘Ciência da Computação (5° Semestre)
 - ## Favoritos 💻🧠:
 <div align = "left">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="java"  />
@@ -15,9 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"  />
     <img width="12" />
 </div>
-<div align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardomenesesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 
 
