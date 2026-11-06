@@ -52,6 +52,13 @@ Sou Desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na 
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
+<p align="left">
+  <b>Também trabalho com</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,ruby&theme=dark" alt="Também trabalho com"/>
+  </a>
+</p>
+
 ---
 
 ## 📂 Projetos em destaque
