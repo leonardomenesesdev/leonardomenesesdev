@@ -55,7 +55,7 @@ Sou Desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na 
 <p align="left">
   <b>Também trabalho com</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,ruby&theme=dark" alt="Também trabalho com"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,ruby,php,cs,dotnet&theme=dark" alt="Também trabalho com"/>
   </a>
 </p>
 
