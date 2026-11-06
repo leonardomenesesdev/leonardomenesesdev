@@ -16,9 +16,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 💻 Desenvolvedor **Full Stack** com experiência em aplicações web, APIs REST e integração entre sistemas
-- 🎓 Estudante de **Ciência da Computação** na **UNIFOR**
-- 💼 Atualmente no **Instituto Atlântico**
+Sou Desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na **UNIFOR**. Tenho experiência no desenvolvimento de aplicações web, APIs REST e integração entre sistemas, e atualmente faço parte do time do **Instituto Atlântico**.
 
 ## 🚀 O que me interessa
 
