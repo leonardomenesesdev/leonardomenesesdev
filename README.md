@@ -46,7 +46,7 @@ Sou Desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na 
 <p align="left">
   <b>Dados & Infra</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,git&theme=dark" alt="Dados e Infra"/>
+    <img src="https://skillicons.dev/icons?i=postgres,docker,aws,git&theme=dark" alt="Dados e Infra"/>
   </a>
   <br>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
