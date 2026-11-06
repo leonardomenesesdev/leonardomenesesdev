@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/leonardomenesesdev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6CB6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo+Meneses!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Java+%E2%80%A2+Spring+%E2%80%A2+Node+%E2%80%A2+NestJS+%E2%80%A2+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6CB6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo+Meneses!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Java+%E2%80%A2+Spring+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+React" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Sou Desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na 
 <p align="left">
   <b>Back-end</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py&theme=dark" alt="Back-end"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py&theme=dark" alt="Back-end"/>
   </a>
 </p>
 
