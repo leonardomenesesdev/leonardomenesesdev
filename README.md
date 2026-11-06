@@ -16,14 +16,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor **Full Stack** com quase 2 anos de experiência profissional em desenvolvimento web e estudante de **Ciência da Computação** na **UNIFOR** (6º semestre).
+- 💻 Desenvolvedor **Full Stack** com experiência em aplicações web, APIs REST e integração entre sistemas
+- 🎓 Estudante de **Ciência da Computação** na **UNIFOR**
+- 💼 Atualmente no **Instituto Atlântico**
 
-- 💼 Estagiário Full Stack no **Instituto Atlântico**, onde desenvolvo uma plataforma interna de gestão de projetos usada por **mais de 70 colaboradores**, com integrações com TOTVS e Teamguide
-- 👨‍🏫 Fui **facilitador** de uma formação web, orientando **mais de 30 alunos** com revisão de código e pair programming
-- 🤖 Desenvolvo com apoio de IA generativa usando **Spec-Driven Development** e **TDD**: o código gerado é revisado e testado antes de cada entrega
-- 🧩 Como freelancer, automatizo processos com **RPA (Robot Framework)** e refatoro sistemas legados
-- 🎯 Meu objetivo é evoluir de senioridade e, no futuro, liderar times técnicos
-- 🌎 Português nativo e inglês avançado (**EF SET C2**)
+## 🚀 O que me interessa
+
+- 🔭 Arquitetura de back-end e design de APIs
+- 🤖 Desenvolvimento assistido por IA, com qualidade e controle
+- 🧪 TDD e testes automatizados
+- 🌱 Evoluir tecnicamente e, no futuro, liderar times
 
 ---
 
@@ -54,7 +56,7 @@ Desenvolvedor **Full Stack** com quase 2 anos de experiência profissional em de
 
 ---
 
-## 🚀 Projetos em destaque
+## 📂 Projetos em destaque
 
 | Projeto | Stack |
 |---|---|
